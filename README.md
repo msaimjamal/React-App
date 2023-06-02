@@ -1,3 +1,5 @@
-"# React-App" 
-"# React-App" 
-"# React-App" 
+This repository has frontend code in react.js and backend code in python flask.
+
+User to interact with user database stored in python program, registering and displaying other users.
+
+Backend has flask dependency (!pip install flask). 
